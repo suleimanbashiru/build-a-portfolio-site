@@ -1,0 +1,46 @@
+body {
+font-family: 'fredoka-one', sans-serif;
+color: ##7d97ad
+}
+
+header {
+    margin-top: 30px;
+}
+
+.text-thin {
+    font-weight: 100;
+    
+}
+
+.text-muted {
+    color: #7d97ad;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.title-super {
+    font-size: 60px;
+    margin-top: 40px;
+}
+
+.title-logo {
+    
+}
+
+.lineweight {
+    border-width: 7px;
+}
+
+h1, h4 {
+    text-transform: uppercase;
+}
+
+img {
+    border-radius: 10px;
+}
+
+.drop-shadow {
+     box-shadow: 0 0 5px 2px rgba(0, 0, 0, .5);
+    transition: all 0.4s  cubic-bezier(0.88,-0.99, 0, 1.81);
+    cursor: default;
+}
