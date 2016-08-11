@@ -1,6 +1,8 @@
 # build-a-portfolio-site
 Project #1 for the Udacity Front-End Web Developer Nanodegree
 
+Passed on 9-08-2016
+
 <h2>Project Overview</h2>
 _______________________________________________________________
 
